@@ -6,7 +6,7 @@ Set up LM Studio on your machine. If your PC allows it try and go for a Q4 model
 
 @ Bav, the thing you need to do to get ipynb on your machine is to install anaconda. 
 
-Then you can run 9pm.ipynb to interact with the LLM. 
+Then you can run 10am.ipynb to interact with the LLM. 
 
 There is however one pdf missing (atp_atks.pdf) you may have to find this manually!
 
